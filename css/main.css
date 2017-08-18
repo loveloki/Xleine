@@ -1,0 +1,22 @@
+#swapper{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 320px;
+            margin-left: -160px;
+            margin-top: -160px;
+            text-align: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+        a{
+            text-decoration: none;
+            color: #333
+        }
+        a:hover{
+            color: #f55
+        }
+        h2{
+            font-weight: normal;
+        }
